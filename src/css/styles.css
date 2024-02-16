@@ -1,0 +1,21 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+a{
+    color: rgb(10, 1, 1);
+    padding: 10px;
+    text-decoration: none;
+    font-size: 1.3rem;
+
+ }
+
+ a:hover{
+    background-color: #fde400;
+    border: solid 0.5px;
+ }
